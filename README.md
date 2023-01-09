@@ -14,6 +14,7 @@ Here are the technologies used in this project.
 * Github
 
 ## Link
+https://lucasleiteduarte.github.io/Favorites_gitHub/
 
 
 ## Image
