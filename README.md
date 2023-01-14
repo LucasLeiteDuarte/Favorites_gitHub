@@ -1,4 +1,4 @@
-## Projeto Responsivo de tela de favoritos.
+## Responsive project of favorites screen.
 
 
 ## Technology 
